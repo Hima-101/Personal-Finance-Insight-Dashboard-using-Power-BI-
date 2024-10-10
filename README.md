@@ -1,6 +1,9 @@
-                                      #### ABOUT PROJECT ####
+ #### ABOUT PROJECT ####
+ 
                                       
 Personal Finance Dashboard Project
+
+
 •	Developed a comprehensive dashboard using Power BI to manage and visualize personal finances, integrating data from an Excel file.
 
 •	Conducted data transformation and cleaning through Power Query, ensuring accuracy and relevance of financial metrics.
@@ -11,8 +14,11 @@ Personal Finance Dashboard Project
 
 •	Received positive feedback for improving financial literacy and budgeting practices through data-driven insights.
 
+
                   
 The project is made step by step as follows:
+
+
 •	Data Collection: Gather personal financial data (income, expenses) in an Excel file.
 
 •	Data Import: Use Power BI to import the Excel file and set up the data model.
