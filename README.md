@@ -1,4 +1,4 @@
-                                                             # ABOUT PROJECT 
+                                                              ABOUT PROJECT 
                                       
  # Personal Finance Dashboard Project
 
