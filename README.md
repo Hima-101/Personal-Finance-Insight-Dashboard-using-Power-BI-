@@ -16,8 +16,7 @@ Personal Finance Dashboard Project
 
 
                   
-The project is made step by step as follows:
-
+*The project is made step by step as follows*
 
 •	Data Collection: Gather personal financial data (income, expenses) in an Excel file.
 
