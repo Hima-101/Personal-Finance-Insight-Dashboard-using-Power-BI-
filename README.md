@@ -1,6 +1,6 @@
-                                                              ABOUT PROJECT 
+                                                              Personal Finance Dashboard Project
                                       
- # Personal Finance Dashboard Project
+ # About Project
 
 
 •	Developed a comprehensive dashboard using Power BI to manage and visualize personal finances, integrating data from an Excel file.
